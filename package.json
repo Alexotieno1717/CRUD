@@ -15,7 +15,7 @@
         "laravel-mix": "^6.0.44",
         "lodash": "^4.17.21",
         "pace": "0.0.4",
-        "resolve-url-loader": "^4.0.0",
+        "resolve-url-loader": "^5.0.0",
         "sass": "^1.52.2",
         "sass-loader": "^9.0.3",
         "vue-template-compiler": "^2.6.14"
